@@ -1,0 +1,16 @@
+**/*.png
+**/*.tex
+**/*.pyc
+**/*.gz
+**/*.xml
+**/*.iml
+**/*.ini
+**/*.txt
+**/*.exe
+**/.ipynb_checkpoints
+**/*.csv
+**/*.hdf
+**/faiss-windows
+**/*.npz
+**/*.mat
+**/nanopq
